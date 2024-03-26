@@ -1,0 +1,4 @@
+name: AlwaysStoplag
+version: '${project.version}'
+main: me.cooleg.alwaysstoplag.AlwaysStoplag
+api-version: '1.14'
